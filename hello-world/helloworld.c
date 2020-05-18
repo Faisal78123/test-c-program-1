@@ -1,6 +1,5 @@
-#include<stdio.h>	//Pre-processor directive
-void main()		//main function declaration
+#include <stdio.h>
+main ( )
 {
-printf("Hello World");	//to output the string on a display
-getch ();		//terminating function
+    printf("Hello World!");
 }

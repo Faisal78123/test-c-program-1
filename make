@@ -1,2 +1,2 @@
 all:
-  gcc src/helloWorld.c -o bin/helloWorld.exe
+  gcc src/helloworld.c -o bin/helloworld.exe
